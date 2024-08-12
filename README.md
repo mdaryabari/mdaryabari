@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mohaddese 👋
 
 - 🔭 I’m currently working on utilizing RNN for satellite state prediction!
 - 🌱 I’m currently learning Cloud Computing!
